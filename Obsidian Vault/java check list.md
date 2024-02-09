@@ -1,0 +1,14 @@
+- [ ] Primary
+	- [x] -------------
+	- [ ] Java (8 or 11)
+	- [ ] Spring
+	- [ ] Spring Boot
+	- [ ] Hibernate
+	- [ ] REST API
+	- [ ] Any one relational database (Oracle)
+
+- [ ] Secondary
+- [x] -----------------
+	- [ ] Any UI Framework (Angular, React, JavaScript)
+	- [ ] AWS
+	- [ ] NoSql DB (MongoDB, Cassandra)
