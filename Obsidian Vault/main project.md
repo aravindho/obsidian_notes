@@ -1,7 +1,0 @@
-- [ ] ppt
-- [ ] 3 model
-	- [ ] paper model -1
-	- [ ] own model  -2
-	- [ ] what we done and what we downloads for it 
-	- [ ] accuracy varavaikanmi 3 kum
-- [ ] 

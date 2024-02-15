@@ -1,7 +1,0 @@
-[[Group discussion topics]]
- The budget also signaled an intention to shift from the existing pension scheme to a new system managed by the state that may impose additional liabilities on Kerala’s delicate economy.
- kERALA finance minister K N Balagopal’s budget
- acute financial crisis that the state is facing and the political message the LDF( Left Democratic Front (LDF) also known as Left Front (Kerala) is **an alliance of left-wing political parties in the state of Kerala,** India. It is the current ruling political alliance of Kerala, since 2016. ) government wanted to convey in an election year
-positive sign, the fiscal deficit has been projected at 3.4 percent, down from the current 3.45 percent, and the state’s own tax revenue is showing a consistent upward trend
-
-A budget is typically assessed through three pivotal criteria: one, the capability to increase revenue without adding to the burden of the vulnerable population; two, promoting growth via strategic investments in productive assets; and three, mitigating inefficiencies and curtailing expenditures. While Balagopal’s budget avoids burdening the common man, it lacks concrete policies that could bring about a positive structural transformation in the state’s finance
